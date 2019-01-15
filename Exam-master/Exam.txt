@@ -1,0 +1,18 @@
+first part 
+1) i added a ref to make x "public"
+2) yes it will change becouse the functions get the place of the array so we can change the values 
+3) no it does not change becouse we defined a new array in the functuin 
+4)i added an out command 
+5)params is an array that can get all the variables and pput them in one array  usually we youse params when we have unknown variables and we want to send them to afunction witch we cant put them in a regular array becouse we cant define unknown length narray 
+6) i defined the int []a in the class so all the functions can use the same array the q6 is on a txt file 
+part 2
+ 
+it works :)
+
+part 3
+
+2) we use the Debug.write to print some inforamtion to us so we can know whats going on 
+3) the new thread that we used is to  do work of the ui thread witch in usall conditions cant print 
+and also we used the sleep fun
+4)
+1 and 3

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam1", "Exam1\Exam1.csproj", "{787F669A-7165-413D-A716-57C3013E190C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform", "winform\winform.csproj", "{EFE724EB-982A-4B41-B336-BEAB489182FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787F669A-7165-413D-A716-57C3013E190C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787F669A-7165-413D-A716-57C3013E190C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787F669A-7165-413D-A716-57C3013E190C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787F669A-7165-413D-A716-57C3013E190C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE724EB-982A-4B41-B336-BEAB489182FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE724EB-982A-4B41-B336-BEAB489182FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE724EB-982A-4B41-B336-BEAB489182FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE724EB-982A-4B41-B336-BEAB489182FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD1C40C-18B3-4764-ABE2-96DD4AF350FE}
+	EndGlobalSection
+EndGlobal

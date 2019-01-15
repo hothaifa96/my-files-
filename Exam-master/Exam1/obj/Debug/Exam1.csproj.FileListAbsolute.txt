@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\bin\Debug\Exam1.exe.config
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\bin\Debug\Exam1.exe
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\bin\Debug\Exam1.pdb
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\obj\Debug\Exam1.exe
+C:\Users\lenovo\Desktop\downloads\Exam-master\Exam-master\Exam1\obj\Debug\Exam1.pdb
